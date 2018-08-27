@@ -660,3 +660,24 @@
     - title: Github
       icon: github
       url: https://github.com/MusapKahraman
+- name: Umberto Colozza
+  banner: https://imgur.com/curqjUj
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.umberto.medicinetracking
+    - title: Github
+      icon: github
+      url: https://github.com/UmbertoColozza/Capstone-Project
+  description: |
+    Remember the medicines you have at home and expiration date.
+  author: Musap Kahraman
+  author_avatar: https://imgur.com/a/GalCLDU
+  author_location: Italy
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/umberto-colozza-a161a9134/
+    - title: Github
+      icon: github
+      url: https://github.com/UmbertoColozza
